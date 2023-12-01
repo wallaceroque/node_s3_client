@@ -1,0 +1,8 @@
+{
+    "namespace": "nome_do_namespace",
+    "region": "nome_do_region",
+    "user": "access_key",
+    "secret": "secret_access_key",
+    "bucket": "nome_do_bucket",
+    "service": "endereco_do_servico"
+}
